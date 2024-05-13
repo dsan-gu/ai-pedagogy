@@ -1,0 +1,6 @@
+---
+title: "Fall 2024 Workshop on AI in Pedagogy"
+subtitle: "Data Science and Analytics, Georgetown University"
+---
+
+Fall 2024 Workshop on AI in Pedagogy, Georgetown [Data Science and Analytics](https://analytics.georgetown.edu){target='_blank'} Program.
